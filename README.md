@@ -15,15 +15,11 @@ step 1
 
 git clone https://github.com/salimzayd/Redux-to-do
 
-step 2 
-
-cd redtodo
-
-step 3
+step 2
 
 npm install (for installing dependencies)
 
-step 4 
+step 3
 
 npm start
 
