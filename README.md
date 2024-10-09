@@ -1,6 +1,6 @@
 Todo App
 
-Welcome to the Todo App! This is a simple task manager built with React, Redux Toolkit, and Material-UI (MUI). It helps you stay organized by letting you add, edit, complete, or delete tasks easily.
+Welcome to the Todo App! This is a simple task manager built with React, Redux Toolkit, and Material-UI (MUI). It helps you stay organized by letting you add, edit, search or delete tasks easily.
 
 Features
 
@@ -41,3 +41,5 @@ Add a Task: Type your task in the input field and click "Add Task".
 Edit a Task: Click "Edit" next to any task to update its details.
 
 Delete a Task: Click "Delete" to remove a task.
+
+Search a task: use search bar for searching task by its name
